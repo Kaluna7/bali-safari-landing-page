@@ -13,9 +13,9 @@ export default function Home() {
         <div className="text-white justify-center items-center">
           <h1 className="text-[200px]">Discover the Wild at <br/> Bali-Safari</h1>
           <p className="text-[80px]">Explore a world of incredible animals, interactive exhibits, and <br/> unforgettable adventures.<br/> Perfect for families, schools, and wildlife enthusiasts.</p>
-          <div className="flex flex-row gap-10 text-[100px] mt-20">
-            <BlackBtn/>
-            <WhiteBtn/>
+          <div className="flex flex-row gap-10 text-[60px] mt-20">
+            <BlackBtn label="Plans your visit"/>
+            <WhiteBtn label="View Animals"/>
           </div>
         </div>
         <img src={imghome} className="w-300 h-300 rounded-4xl"/>
