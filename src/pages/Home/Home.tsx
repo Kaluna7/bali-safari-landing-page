@@ -6,7 +6,7 @@ import WhiteBtn from "../../components/common/WhiteBtn.tsx";
 export default function Home() {
   return (
     <div
-      className="h-screen w-full bg-green-100 relative items-center"
+      className="h-screen w-full bg-green-100 relative items-center px-30"
     >
       <Header />
       <div className="flex flex-row space-x-200 items-center justify-center translate-y-[500px]">

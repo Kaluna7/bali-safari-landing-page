@@ -1,5 +1,5 @@
 import { AnimalsGridViewData } from "./AnimalsGridViewData";
-import GridView from "../../components/layout/GridView";
+import GridView from "../../../components/layout/GridView";
 
 
 

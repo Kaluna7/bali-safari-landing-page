@@ -7,7 +7,9 @@ createRoot(document.getElementById("root")!).render(
   <StrictMode>
     <div className="overflow-y-auto overflow-x-hidden">
       <Home />
-      <FeaturesAnimals />
+      <div className="mt-50">
+              <FeaturesAnimals />
+      </div>
     </div>
   </StrictMode>,
 );

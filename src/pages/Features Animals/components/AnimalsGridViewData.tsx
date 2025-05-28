@@ -1,4 +1,4 @@
-import lionImg from "../../assets/images/4.jpg"
+import lionImg from "../../../assets/images/4.jpg"
 
 
 export const AnimalsGridViewData = [
